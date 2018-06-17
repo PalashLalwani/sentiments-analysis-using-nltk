@@ -9,5 +9,5 @@ sentiment analysis is performed on twitter data which is collected by tweepy api
 Live sentiments are analysed by plotting graph using matplotlib.
 
 
-This model is only for learning and implementing nltk. We can directly use TextBlob in python to directly generate the sentiments. For this code is available in my previous repository:
+This model is only for learning and implementing nltk. We can directly use TextBlob in python to directly generate the sentiments. This code is available in my previous repository:
  https://github.com/PalashLalwani/twitter-sentiment-analysis
